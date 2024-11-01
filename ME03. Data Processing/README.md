@@ -13,47 +13,37 @@ Mejorar la gestión del recurso económico al estimar la proyección financiera 
 
 La base de datos fue extraída del registro histórico de los beneficiarios del fondo línea pregrado de Sapiencia desde el semestre 2014-1 hasta el semestre 2024-2. La base de datos inicial llamada _Data_Sapiencia_ la cual cuenta con  677060  filas y 65 columnas.
 
-\begin{table}[h!]
-\centering
-\begin{tabular}{|l|r|}
-\hline
-\textbf{Nombre de la Columna} & \textbf{Cantidad de Valores} \\
-\hline
-ID USUARIO (TI) & 677060 \\
-CONVOCATORIA & 677060 \\
-FONDO SAPIENCIA & 677060 \\
-GÉNERO & 677055 \\
-FECHA DE NACIMIENTO & 662136 \\
-ESTRATO & 676464 \\
-COMUNA DE RESIDENCIA & 677052 \\
-MUNICIPIO DE RESIDENCIA & 677060 \\
-VICTIMA DEL CONFLICTO ARMADO & 676464 \\
-HECHO VICTIMIZANTE & 676464 \\
-SITUACIÓN DE DISCAPACIDAD & 676464 \\
-TIPO DE DISCAPACIDAD & 676464 \\
-PUNTAJE SISBEN & 665366 \\
-LGTBI & 666951 \\
-MODALIDAD & 677059 \\
-MONTO MATRÍCULA & 677060 \\
-MONTO SOSTENIMIENTO & 677060 \\
-MONTO TOTAL & 677060 \\
-IES & 677060 \\
-PROGRAMA & 677060 \\
-DURACIÓN DEL PROGRAMA & 676476 \\
-TOTAL CRÉDITOS DE LA CARRERA & 669348 \\
-ESTADO GENERAL & 676477 \\
-PERIODO RENOVADO & 677060 \\
-ESTADO SEMESTRAL & 677060 \\
-MOTIVO ESTADO & 676469 \\
-SEMESTRES A FINANCIAR & 677060 \\
-SEMESTRE DE INGRESO & 676476 \\
-GIROS REALIZADOS & 677060 \\
-GIROS PENDIENTES & 677060 \\
-\hline
-\end{tabular}
-\caption{Tabla de Columnas y Cantidad de Valores}
-\label{tab:columnas_valores}
-\end{table}
-
+| Nombre de la Columna           | Cantidad de Valores |
+|--------------------------------|----------------------|
+| ID USUARIO (TI)                | 677060              |
+| CONVOCATORIA                   | 677060              |
+| FONDO SAPIENCIA                | 677060              |
+| GÉNERO                         | 677055              |
+| FECHA DE NACIMIENTO            | 662136              |
+| ESTRATO                        | 676464              |
+| COMUNA DE RESIDENCIA           | 677052              |
+| MUNICIPIO DE RESIDENCIA        | 677060              |
+| VICTIMA DEL CONFLICTO ARMADO   | 676464              |
+| HECHO VICTIMIZANTE             | 676464              |
+| SITUACIÓN DE DISCAPACIDAD      | 676464              |
+| TIPO DE DISCAPACIDAD           | 676464              |
+| PUNTAJE SISBEN                 | 665366              |
+| LGTBI                          | 666951              |
+| MODALIDAD                      | 677059              |
+| MONTO MATRÍCULA                | 677060              |
+| MONTO SOSTENIMIENTO            | 677060              |
+| MONTO TOTAL                    | 677060              |
+| IES                            | 677060              |
+| PROGRAMA                       | 677060              |
+| DURACIÓN DEL PROGRAMA          | 676476              |
+| TOTAL CRÉDITOS DE LA CARRERA   | 669348              |
+| ESTADO GENERAL                 | 676477              |
+| PERIODO RENOVADO               | 677060              |
+| ESTADO SEMESTRAL               | 677060              |
+| MOTIVO ESTADO                  | 676469              |
+| SEMESTRES A FINANCIAR          | 677060              |
+| SEMESTRE DE INGRESO            | 676476              |
+| GIROS REALIZADOS               | 677060              |
+| GIROS PENDIENTES               | 677060              |
 
 
