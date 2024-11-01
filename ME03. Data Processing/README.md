@@ -47,3 +47,41 @@ La base de datos fue extraída del registro histórico de los beneficiarios del 
 | GIROS PENDIENTES               | 677060              |
 
 ## Limpieza de datos
+
+Se realizo inicialmente el análisis de los valores nulos de las variavbles donde se obtuvieron los siguientes resultados:
+
+| Nombre de la Columna           | Cantidad de Valores Nulos |
+|--------------------------------|---------------------------|
+| ID USUARIO (TI)                | 0                         |
+| CONVOCATORIA                   | 0                         |
+| FONDO SAPIENCIA                | 0                         |
+| GÉNERO                         | 5                         |
+| FECHA DE NACIMIENTO            | 14924                     |
+| ESTRATO                        | 596                       |
+| COMUNA DE RESIDENCIA           | 8                         |
+| MUNICIPIO DE RESIDENCIA        | 0                         |
+| VICTIMA DEL CONFLICTO ARMADO   | 596                       |
+| HECHO VICTIMIZANTE             | 596                       |
+| SITUACIÓN DE DISCAPACIDAD      | 596                       |
+| TIPO DE DISCAPACIDAD           | 596                       |
+| PUNTAJE SISBEN                 | 11694                     |
+| LGTBI                          | 10109                     |
+| MODALIDAD                      | 1                         |
+| MONTO MATRÍCULA                | 0                         |
+| MONTO SOSTENIMIENTO            | 0                         |
+| MONTO TOTAL                    | 0                         |
+| IES                            | 0                         |
+| PROGRAMA                       | 0                         |
+| DURACIÓN DEL PROGRAMA          | 584                       |
+| TOTAL CRÉDITOS DE LA CARRERA   | 7712                      |
+| ESTADO GENERAL                 | 583                       |
+| PERIODO RENOVADO               | 0                         |
+| ESTADO SEMESTRAL               | 0                         |
+| MOTIVO ESTADO                  | 591                       |
+| SEMESTRES A FINANCIAR          | 0                         |
+| SEMESTRE DE INGRESO            | 584                       |
+| GIROS REALIZADOS               | 0                         |
+| GIROS PENDIENTES               | 0                         |
+
+Se contó inicialmente con 677059 registros, de los cuales por su imposibilidad de imputar información se concretó con una base que cuenta con 643896. 
+
