@@ -85,3 +85,5 @@ Se realizo inicialmente el análisis de los valores nulos de las variavbles dond
 
 Se contó inicialmente con 677059 registros, de los cuales por su imposibilidad de imputar información se concretó con una base que cuenta con 643896. 
 
+## Anpalisis descriptivo
+
