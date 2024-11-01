@@ -11,7 +11,7 @@ Mejorar la gestión del recurso económico al estimar la proyección financiera 
 
 ## Base Datos
 
-La base de datos fue extraída del registro histórico de los beneficiarios del fondo línea pregrado de Sapiencia desde el semestre 2014-1 hasta el semestre 2024-2. La base de datos inicial llamada _Data_Sapiencia_ la cual cuenta con  677060  filas y 65 columnas. Posteriormente, dado que se trata de información sensible, se anonimizó los datos excluyendo esas columnas que contenían información personal del beneficiario, donde se obtuvo finalmente las siguientes 30 variables:
+La base de datos fue extraída del registro histórico de los beneficiarios del fondo línea pregrado de Sapiencia desde el semestre 2014-1 hasta el semestre 2024-2. La base de datos inicial llamada __Data_Sapiencia__ la cual cuenta con  677060  filas y 65 columnas. Posteriormente, dado que se trata de información sensible, se anonimizó los datos excluyendo esas columnas que contenían información personal del beneficiario, donde se obtuvo finalmente las siguientes 30 variables:
 
 | Nombre de la Columna           | Cantidad de Valores |
 |--------------------------------|----------------------|
@@ -46,4 +46,4 @@ La base de datos fue extraída del registro histórico de los beneficiarios del 
 | GIROS REALIZADOS               | 677060              |
 | GIROS PENDIENTES               | 677060              |
 
-
+## Limpieza de datos
