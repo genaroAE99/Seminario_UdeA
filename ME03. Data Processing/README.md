@@ -87,3 +87,24 @@ Se contó inicialmente con 677059 registros, de los cuales por su imposibilidad 
 
 ## Análisis descriptivo
 
+Se realizo un proceso de análisis descriptivos con las variables más representativas donde se obtuvieron los siguietnes resultados:
+
+### Intrepretación de los gráficos descriptivos
+
+- La variable __tipo_modalidad__, la cual representa la modalidad de financiación escogida por el beneficiario, donde 1 corresponde a la modalidad de Matricula, 2 a la de Sostenimiento y 3 Matricula y sostenimiento. Se observa como, la mayoría de los beneficios prefieren la modalidad 3, en total son, 8494 beneficiarios. MIentras que casi la mitad, 4335 prefieren la modalidad de Matricula. Por otro lado, 3630 prefieren la modalidad de sostenimiento.
+
+- La variable __estado_credito__, muestra el estado actual del beneficiario con la entidad Sapiencia. Se observa como la inmensa mayoría, 15513 beneficiarios, se encuentran en estado activo su crédito. Los otros estados corresponde a etapas de culminación, condonación y/o cobro del crédito.
+
+- La variable __CONVOCATORIA__, corresponde con el semestre en el que el beneficiario legalizó su crédito. En este caso se observa como, actualmente, la convocatoria en la que se legalizaron más beneficiarios fue en el 2023-2 con 3139 estudiantes, seguida por la convocatoria 2019-2 con 2675 estudiantes legalizados.
+
+- La variable __FONDO SAPIENCIA__, muestra las dos fuentes de financiación mediante la cual los beneficiarios reciben los estímulos a lo largo de su ciclo en la agencia. Se observa como la mayoría de beneficiarios, 8378 son del fondo EPM. Mientras que, 8081 son el fondo PP.
+
+- La variable __GENERO__, representa el género por el cual se identificaron los beneficiarios a la hora de legalizar su crédito. Se observa una gran diferencia entre hombres y mujeres que gozan de los beneficios ofrecidos por Sapiencia. Donde 9495 son mujeres mientras que 6948 son hombres, 7 son de género intersexual y 9 prefieren no responder. Esto refleja una representación femenina significativa en los créditos educativos condonables, lo cual podría estar relacionado con la demanda educativa o la estructura demográfica de la población estudiantil.
+
+- La variable __ESTRATO__, representa el estrato socioeconómico del beneficiario. Donde la mayoría de beneficiarios son de los estratos 2 y 3 con un total de 6519 y 4396 respectivamente.
+
+- La variable __COMUNA DE RESIDENCIA__, representa la comuna en la cual reside el beneficiario. Entre las comunas con más beneficiarios se encuentran 7 - ROBLEDO con 1362, 8- VILLA HERMOSA con 1188 y 70 - ALTAVISTA con 963.
+
+- La variable __IES__, representa la institución de educación superior en la cual estudian los beneficiarios. Se observa como las universidades que más beneficiarios de los fondos Sapiencia son  la UNIVERSIDAD CATOLICA LUIS AMIGO co 1718 estudiantes, el INSTITUTO TECNOLOGICO METROPOLITANO (ITM) con 1621, el TECNOLOGICO  DE ANTIOQUIA (TDA) con 1486 y la UNIVERSIDAD DE ANTIOQUIA con 1240 beneficiarios.
+
+- La variable __PROGRAMA__, representa el nombre del programa que está estudiando el beneficiario. Se observa como, los programas que suelen ser más estudiados por los beneficiarios son PSICOLOGIA con 469 y COMUNICACION SOCIAL con 178 beneficiarios respectivamente.
